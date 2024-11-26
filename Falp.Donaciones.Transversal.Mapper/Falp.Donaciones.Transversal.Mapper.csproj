@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="8.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Falp.Donaciones.Aplicacion.DTO\Falp.Donaciones.Aplicacion.DTO.csproj" />
+    <ProjectReference Include="..\Falp.Donaciones.Dominio.Entidad\Falp.Donaciones.Dominio.Entidad.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,14 @@
+C:\Users\reyese\Desktop\API Donaciones\Falp.Donaciones\Falp.Donaciones.Transversal.Mapper\bin\Debug\netstandard2.0\Falp.Donaciones.Transversal.Mapper.deps.json
+C:\Users\reyese\Desktop\API Donaciones\Falp.Donaciones\Falp.Donaciones.Transversal.Mapper\bin\Debug\netstandard2.0\Falp.Donaciones.Transversal.Mapper.dll
+C:\Users\reyese\Desktop\API Donaciones\Falp.Donaciones\Falp.Donaciones.Transversal.Mapper\bin\Debug\netstandard2.0\Falp.Donaciones.Transversal.Mapper.pdb
+C:\Users\reyese\Desktop\API Donaciones\Falp.Donaciones\Falp.Donaciones.Transversal.Mapper\bin\Debug\netstandard2.0\Falp.Donaciones.Aplicacion.DTO.dll
+C:\Users\reyese\Desktop\API Donaciones\Falp.Donaciones\Falp.Donaciones.Transversal.Mapper\bin\Debug\netstandard2.0\Falp.Donaciones.Dominio.Entidad.dll
+C:\Users\reyese\Desktop\API Donaciones\Falp.Donaciones\Falp.Donaciones.Transversal.Mapper\bin\Debug\netstandard2.0\Falp.Donaciones.Aplicacion.DTO.pdb
+C:\Users\reyese\Desktop\API Donaciones\Falp.Donaciones\Falp.Donaciones.Transversal.Mapper\bin\Debug\netstandard2.0\Falp.Donaciones.Dominio.Entidad.pdb
+C:\Users\reyese\Desktop\API Donaciones\Falp.Donaciones\Falp.Donaciones.Transversal.Mapper\obj\Debug\netstandard2.0\Falp.Donaciones.Transversal.Mapper.csprojAssemblyReference.cache
+C:\Users\reyese\Desktop\API Donaciones\Falp.Donaciones\Falp.Donaciones.Transversal.Mapper\obj\Debug\netstandard2.0\Falp.Donaciones.Transversal.Mapper.csproj.CoreCompileInputs.cache
+C:\Users\reyese\Desktop\API Donaciones\Falp.Donaciones\Falp.Donaciones.Transversal.Mapper\obj\Debug\netstandard2.0\Falp.Donaciones.Transversal.Mapper.AssemblyInfoInputs.cache
+C:\Users\reyese\Desktop\API Donaciones\Falp.Donaciones\Falp.Donaciones.Transversal.Mapper\obj\Debug\netstandard2.0\Falp.Donaciones.Transversal.Mapper.AssemblyInfo.cs
+C:\Users\reyese\Desktop\API Donaciones\Falp.Donaciones\Falp.Donaciones.Transversal.Mapper\obj\Debug\netstandard2.0\Falp.Donaciones.Transversal.Mapper.csproj.CopyComplete
+C:\Users\reyese\Desktop\API Donaciones\Falp.Donaciones\Falp.Donaciones.Transversal.Mapper\obj\Debug\netstandard2.0\Falp.Donaciones.Transversal.Mapper.dll
+C:\Users\reyese\Desktop\API Donaciones\Falp.Donaciones\Falp.Donaciones.Transversal.Mapper\obj\Debug\netstandard2.0\Falp.Donaciones.Transversal.Mapper.pdb

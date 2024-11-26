@@ -1,0 +1,9 @@
+C:\Users\reyese\Desktop\API Donaciones\Falp.Donaciones\Falp.Donaciones.Transversal.Comunes\bin\Debug\netstandard2.0\Falp.Donaciones.Transversal.Comunes.deps.json
+C:\Users\reyese\Desktop\API Donaciones\Falp.Donaciones\Falp.Donaciones.Transversal.Comunes\bin\Debug\netstandard2.0\Falp.Donaciones.Transversal.Comunes.dll
+C:\Users\reyese\Desktop\API Donaciones\Falp.Donaciones\Falp.Donaciones.Transversal.Comunes\bin\Debug\netstandard2.0\Falp.Donaciones.Transversal.Comunes.pdb
+C:\Users\reyese\Desktop\API Donaciones\Falp.Donaciones\Falp.Donaciones.Transversal.Comunes\obj\Debug\netstandard2.0\Falp.Donaciones.Transversal.Comunes.csprojAssemblyReference.cache
+C:\Users\reyese\Desktop\API Donaciones\Falp.Donaciones\Falp.Donaciones.Transversal.Comunes\obj\Debug\netstandard2.0\Falp.Donaciones.Transversal.Comunes.csproj.CoreCompileInputs.cache
+C:\Users\reyese\Desktop\API Donaciones\Falp.Donaciones\Falp.Donaciones.Transversal.Comunes\obj\Debug\netstandard2.0\Falp.Donaciones.Transversal.Comunes.AssemblyInfoInputs.cache
+C:\Users\reyese\Desktop\API Donaciones\Falp.Donaciones\Falp.Donaciones.Transversal.Comunes\obj\Debug\netstandard2.0\Falp.Donaciones.Transversal.Comunes.AssemblyInfo.cs
+C:\Users\reyese\Desktop\API Donaciones\Falp.Donaciones\Falp.Donaciones.Transversal.Comunes\obj\Debug\netstandard2.0\Falp.Donaciones.Transversal.Comunes.dll
+C:\Users\reyese\Desktop\API Donaciones\Falp.Donaciones\Falp.Donaciones.Transversal.Comunes\obj\Debug\netstandard2.0\Falp.Donaciones.Transversal.Comunes.pdb
