@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Falp.Donaciones.Aplicacion.DTO\Falp.Donaciones.Aplicacion.DTO.csproj" />
+    <ProjectReference Include="..\Falp.Donaciones.Transversal.Comunes\Falp.Donaciones.Transversal.Comunes.csproj" />
+  </ItemGroup>
+
+</Project>

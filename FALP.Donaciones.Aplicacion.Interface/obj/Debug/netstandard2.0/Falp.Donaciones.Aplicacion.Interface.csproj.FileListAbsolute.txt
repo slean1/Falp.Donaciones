@@ -1,0 +1,14 @@
+C:\Users\reyese\Desktop\API Donaciones\Falp.Donaciones\FALP.Donaciones.Aplicacion.Interface\bin\Debug\netstandard2.0\Falp.Donaciones.Aplicacion.Interface.deps.json
+C:\Users\reyese\Desktop\API Donaciones\Falp.Donaciones\FALP.Donaciones.Aplicacion.Interface\bin\Debug\netstandard2.0\Falp.Donaciones.Aplicacion.Interface.dll
+C:\Users\reyese\Desktop\API Donaciones\Falp.Donaciones\FALP.Donaciones.Aplicacion.Interface\bin\Debug\netstandard2.0\Falp.Donaciones.Aplicacion.Interface.pdb
+C:\Users\reyese\Desktop\API Donaciones\Falp.Donaciones\FALP.Donaciones.Aplicacion.Interface\bin\Debug\netstandard2.0\Falp.Donaciones.Aplicacion.DTO.dll
+C:\Users\reyese\Desktop\API Donaciones\Falp.Donaciones\FALP.Donaciones.Aplicacion.Interface\bin\Debug\netstandard2.0\Falp.Donaciones.Transversal.Comunes.dll
+C:\Users\reyese\Desktop\API Donaciones\Falp.Donaciones\FALP.Donaciones.Aplicacion.Interface\bin\Debug\netstandard2.0\Falp.Donaciones.Aplicacion.DTO.pdb
+C:\Users\reyese\Desktop\API Donaciones\Falp.Donaciones\FALP.Donaciones.Aplicacion.Interface\bin\Debug\netstandard2.0\Falp.Donaciones.Transversal.Comunes.pdb
+C:\Users\reyese\Desktop\API Donaciones\Falp.Donaciones\FALP.Donaciones.Aplicacion.Interface\obj\Debug\netstandard2.0\Falp.Donaciones.Aplicacion.Interface.csprojAssemblyReference.cache
+C:\Users\reyese\Desktop\API Donaciones\Falp.Donaciones\FALP.Donaciones.Aplicacion.Interface\obj\Debug\netstandard2.0\Falp.Donaciones.Aplicacion.Interface.csproj.CoreCompileInputs.cache
+C:\Users\reyese\Desktop\API Donaciones\Falp.Donaciones\FALP.Donaciones.Aplicacion.Interface\obj\Debug\netstandard2.0\Falp.Donaciones.Aplicacion.Interface.AssemblyInfoInputs.cache
+C:\Users\reyese\Desktop\API Donaciones\Falp.Donaciones\FALP.Donaciones.Aplicacion.Interface\obj\Debug\netstandard2.0\Falp.Donaciones.Aplicacion.Interface.AssemblyInfo.cs
+C:\Users\reyese\Desktop\API Donaciones\Falp.Donaciones\FALP.Donaciones.Aplicacion.Interface\obj\Debug\netstandard2.0\Falp.Donaciones.Aplicacion.Interface.csproj.CopyComplete
+C:\Users\reyese\Desktop\API Donaciones\Falp.Donaciones\FALP.Donaciones.Aplicacion.Interface\obj\Debug\netstandard2.0\Falp.Donaciones.Aplicacion.Interface.dll
+C:\Users\reyese\Desktop\API Donaciones\Falp.Donaciones\FALP.Donaciones.Aplicacion.Interface\obj\Debug\netstandard2.0\Falp.Donaciones.Aplicacion.Interface.pdb
