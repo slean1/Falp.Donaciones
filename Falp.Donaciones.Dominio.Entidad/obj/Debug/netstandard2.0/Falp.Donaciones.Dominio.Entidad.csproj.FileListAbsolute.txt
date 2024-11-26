@@ -1,0 +1,9 @@
+C:\Users\reyese\Desktop\API Donaciones\Falp.Donaciones\Falp.Donaciones.Dominio.Entidad\bin\Debug\netstandard2.0\Falp.Donaciones.Dominio.Entidad.deps.json
+C:\Users\reyese\Desktop\API Donaciones\Falp.Donaciones\Falp.Donaciones.Dominio.Entidad\bin\Debug\netstandard2.0\Falp.Donaciones.Dominio.Entidad.dll
+C:\Users\reyese\Desktop\API Donaciones\Falp.Donaciones\Falp.Donaciones.Dominio.Entidad\bin\Debug\netstandard2.0\Falp.Donaciones.Dominio.Entidad.pdb
+C:\Users\reyese\Desktop\API Donaciones\Falp.Donaciones\Falp.Donaciones.Dominio.Entidad\obj\Debug\netstandard2.0\Falp.Donaciones.Dominio.Entidad.csprojAssemblyReference.cache
+C:\Users\reyese\Desktop\API Donaciones\Falp.Donaciones\Falp.Donaciones.Dominio.Entidad\obj\Debug\netstandard2.0\Falp.Donaciones.Dominio.Entidad.csproj.CoreCompileInputs.cache
+C:\Users\reyese\Desktop\API Donaciones\Falp.Donaciones\Falp.Donaciones.Dominio.Entidad\obj\Debug\netstandard2.0\Falp.Donaciones.Dominio.Entidad.AssemblyInfoInputs.cache
+C:\Users\reyese\Desktop\API Donaciones\Falp.Donaciones\Falp.Donaciones.Dominio.Entidad\obj\Debug\netstandard2.0\Falp.Donaciones.Dominio.Entidad.AssemblyInfo.cs
+C:\Users\reyese\Desktop\API Donaciones\Falp.Donaciones\Falp.Donaciones.Dominio.Entidad\obj\Debug\netstandard2.0\Falp.Donaciones.Dominio.Entidad.dll
+C:\Users\reyese\Desktop\API Donaciones\Falp.Donaciones\Falp.Donaciones.Dominio.Entidad\obj\Debug\netstandard2.0\Falp.Donaciones.Dominio.Entidad.pdb

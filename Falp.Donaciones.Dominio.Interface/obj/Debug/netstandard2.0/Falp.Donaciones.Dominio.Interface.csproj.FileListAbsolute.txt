@@ -1,0 +1,12 @@
+C:\Users\reyese\Desktop\API Donaciones\Falp.Donaciones\Falp.Donaciones.Dominio.Interface\bin\Debug\netstandard2.0\Falp.Donaciones.Dominio.Interface.deps.json
+C:\Users\reyese\Desktop\API Donaciones\Falp.Donaciones\Falp.Donaciones.Dominio.Interface\bin\Debug\netstandard2.0\Falp.Donaciones.Dominio.Interface.dll
+C:\Users\reyese\Desktop\API Donaciones\Falp.Donaciones\Falp.Donaciones.Dominio.Interface\bin\Debug\netstandard2.0\Falp.Donaciones.Dominio.Interface.pdb
+C:\Users\reyese\Desktop\API Donaciones\Falp.Donaciones\Falp.Donaciones.Dominio.Interface\bin\Debug\netstandard2.0\Falp.Donaciones.Dominio.Entidad.dll
+C:\Users\reyese\Desktop\API Donaciones\Falp.Donaciones\Falp.Donaciones.Dominio.Interface\bin\Debug\netstandard2.0\Falp.Donaciones.Dominio.Entidad.pdb
+C:\Users\reyese\Desktop\API Donaciones\Falp.Donaciones\Falp.Donaciones.Dominio.Interface\obj\Debug\netstandard2.0\Falp.Donaciones.Dominio.Interface.csprojAssemblyReference.cache
+C:\Users\reyese\Desktop\API Donaciones\Falp.Donaciones\Falp.Donaciones.Dominio.Interface\obj\Debug\netstandard2.0\Falp.Donaciones.Dominio.Interface.csproj.CoreCompileInputs.cache
+C:\Users\reyese\Desktop\API Donaciones\Falp.Donaciones\Falp.Donaciones.Dominio.Interface\obj\Debug\netstandard2.0\Falp.Donaciones.Dominio.Interface.AssemblyInfoInputs.cache
+C:\Users\reyese\Desktop\API Donaciones\Falp.Donaciones\Falp.Donaciones.Dominio.Interface\obj\Debug\netstandard2.0\Falp.Donaciones.Dominio.Interface.AssemblyInfo.cs
+C:\Users\reyese\Desktop\API Donaciones\Falp.Donaciones\Falp.Donaciones.Dominio.Interface\obj\Debug\netstandard2.0\Falp.Donaciones.Dominio.Interface.csproj.CopyComplete
+C:\Users\reyese\Desktop\API Donaciones\Falp.Donaciones\Falp.Donaciones.Dominio.Interface\obj\Debug\netstandard2.0\Falp.Donaciones.Dominio.Interface.dll
+C:\Users\reyese\Desktop\API Donaciones\Falp.Donaciones\Falp.Donaciones.Dominio.Interface\obj\Debug\netstandard2.0\Falp.Donaciones.Dominio.Interface.pdb

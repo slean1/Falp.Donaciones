@@ -1,0 +1,16 @@
+C:\Users\reyese\Desktop\API Donaciones\Falp.Donaciones\Falp.Donaciones.Dominio.Core\bin\Debug\netstandard2.0\Falp.Donaciones.Dominio.Core.deps.json
+C:\Users\reyese\Desktop\API Donaciones\Falp.Donaciones\Falp.Donaciones.Dominio.Core\bin\Debug\netstandard2.0\Falp.Donaciones.Dominio.Core.dll
+C:\Users\reyese\Desktop\API Donaciones\Falp.Donaciones\Falp.Donaciones.Dominio.Core\bin\Debug\netstandard2.0\Falp.Donaciones.Dominio.Core.pdb
+C:\Users\reyese\Desktop\API Donaciones\Falp.Donaciones\Falp.Donaciones.Dominio.Core\bin\Debug\netstandard2.0\Falp.Donaciones.Dominio.Entidad.dll
+C:\Users\reyese\Desktop\API Donaciones\Falp.Donaciones\Falp.Donaciones.Dominio.Core\bin\Debug\netstandard2.0\Falp.Donaciones.Dominio.Interface.dll
+C:\Users\reyese\Desktop\API Donaciones\Falp.Donaciones\Falp.Donaciones.Dominio.Core\bin\Debug\netstandard2.0\Falp.Donaciones.Infraestructura.Interface.dll
+C:\Users\reyese\Desktop\API Donaciones\Falp.Donaciones\Falp.Donaciones.Dominio.Core\bin\Debug\netstandard2.0\Falp.Donaciones.Dominio.Entidad.pdb
+C:\Users\reyese\Desktop\API Donaciones\Falp.Donaciones\Falp.Donaciones.Dominio.Core\bin\Debug\netstandard2.0\Falp.Donaciones.Dominio.Interface.pdb
+C:\Users\reyese\Desktop\API Donaciones\Falp.Donaciones\Falp.Donaciones.Dominio.Core\bin\Debug\netstandard2.0\Falp.Donaciones.Infraestructura.Interface.pdb
+C:\Users\reyese\Desktop\API Donaciones\Falp.Donaciones\Falp.Donaciones.Dominio.Core\obj\Debug\netstandard2.0\Falp.Donaciones.Dominio.Core.csprojAssemblyReference.cache
+C:\Users\reyese\Desktop\API Donaciones\Falp.Donaciones\Falp.Donaciones.Dominio.Core\obj\Debug\netstandard2.0\Falp.Donaciones.Dominio.Core.csproj.CoreCompileInputs.cache
+C:\Users\reyese\Desktop\API Donaciones\Falp.Donaciones\Falp.Donaciones.Dominio.Core\obj\Debug\netstandard2.0\Falp.Donaciones.Dominio.Core.AssemblyInfoInputs.cache
+C:\Users\reyese\Desktop\API Donaciones\Falp.Donaciones\Falp.Donaciones.Dominio.Core\obj\Debug\netstandard2.0\Falp.Donaciones.Dominio.Core.AssemblyInfo.cs
+C:\Users\reyese\Desktop\API Donaciones\Falp.Donaciones\Falp.Donaciones.Dominio.Core\obj\Debug\netstandard2.0\Falp.Donaciones.Dominio.Core.csproj.CopyComplete
+C:\Users\reyese\Desktop\API Donaciones\Falp.Donaciones\Falp.Donaciones.Dominio.Core\obj\Debug\netstandard2.0\Falp.Donaciones.Dominio.Core.dll
+C:\Users\reyese\Desktop\API Donaciones\Falp.Donaciones\Falp.Donaciones.Dominio.Core\obj\Debug\netstandard2.0\Falp.Donaciones.Dominio.Core.pdb

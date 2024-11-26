@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Falp.Donaciones.Dominio.Entidad\Falp.Donaciones.Dominio.Entidad.csproj" />
+    <ProjectReference Include="..\Falp.Donaciones.Dominio.Interface\Falp.Donaciones.Dominio.Interface.csproj" />
+    <ProjectReference Include="..\Falp.Donaciones.Infraestructura.Interface\Falp.Donaciones.Infraestructura.Interface.csproj" />
+  </ItemGroup>
+
+</Project>
