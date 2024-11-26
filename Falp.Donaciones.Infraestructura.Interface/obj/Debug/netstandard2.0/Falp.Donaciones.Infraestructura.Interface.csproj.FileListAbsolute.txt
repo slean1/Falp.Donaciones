@@ -1,0 +1,12 @@
+C:\Users\reyese\Desktop\API Donaciones\Falp.Donaciones\Falp.Donaciones.Infraestructura.Interface\bin\Debug\netstandard2.0\Falp.Donaciones.Infraestructura.Interface.deps.json
+C:\Users\reyese\Desktop\API Donaciones\Falp.Donaciones\Falp.Donaciones.Infraestructura.Interface\bin\Debug\netstandard2.0\Falp.Donaciones.Infraestructura.Interface.dll
+C:\Users\reyese\Desktop\API Donaciones\Falp.Donaciones\Falp.Donaciones.Infraestructura.Interface\bin\Debug\netstandard2.0\Falp.Donaciones.Infraestructura.Interface.pdb
+C:\Users\reyese\Desktop\API Donaciones\Falp.Donaciones\Falp.Donaciones.Infraestructura.Interface\bin\Debug\netstandard2.0\Falp.Donaciones.Dominio.Entidad.dll
+C:\Users\reyese\Desktop\API Donaciones\Falp.Donaciones\Falp.Donaciones.Infraestructura.Interface\bin\Debug\netstandard2.0\Falp.Donaciones.Dominio.Entidad.pdb
+C:\Users\reyese\Desktop\API Donaciones\Falp.Donaciones\Falp.Donaciones.Infraestructura.Interface\obj\Debug\netstandard2.0\Falp.Donaciones.Infraestructura.Interface.csprojAssemblyReference.cache
+C:\Users\reyese\Desktop\API Donaciones\Falp.Donaciones\Falp.Donaciones.Infraestructura.Interface\obj\Debug\netstandard2.0\Falp.Donaciones.Infraestructura.Interface.csproj.CoreCompileInputs.cache
+C:\Users\reyese\Desktop\API Donaciones\Falp.Donaciones\Falp.Donaciones.Infraestructura.Interface\obj\Debug\netstandard2.0\Falp.Donaciones.Infraestructura.Interface.AssemblyInfoInputs.cache
+C:\Users\reyese\Desktop\API Donaciones\Falp.Donaciones\Falp.Donaciones.Infraestructura.Interface\obj\Debug\netstandard2.0\Falp.Donaciones.Infraestructura.Interface.AssemblyInfo.cs
+C:\Users\reyese\Desktop\API Donaciones\Falp.Donaciones\Falp.Donaciones.Infraestructura.Interface\obj\Debug\netstandard2.0\Falp.Donaciones.Infraestructura.Interface.csproj.CopyComplete
+C:\Users\reyese\Desktop\API Donaciones\Falp.Donaciones\Falp.Donaciones.Infraestructura.Interface\obj\Debug\netstandard2.0\Falp.Donaciones.Infraestructura.Interface.dll
+C:\Users\reyese\Desktop\API Donaciones\Falp.Donaciones\Falp.Donaciones.Infraestructura.Interface\obj\Debug\netstandard2.0\Falp.Donaciones.Infraestructura.Interface.pdb

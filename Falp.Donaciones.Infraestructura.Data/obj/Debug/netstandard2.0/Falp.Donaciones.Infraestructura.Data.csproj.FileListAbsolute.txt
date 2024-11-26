@@ -1,0 +1,12 @@
+C:\Users\reyese\Desktop\API Donaciones\Falp.Donaciones\Falp.Donaciones.Infraestructura.Data\bin\Debug\netstandard2.0\Falp.Donaciones.Infraestructura.Data.deps.json
+C:\Users\reyese\Desktop\API Donaciones\Falp.Donaciones\Falp.Donaciones.Infraestructura.Data\bin\Debug\netstandard2.0\Falp.Donaciones.Infraestructura.Data.dll
+C:\Users\reyese\Desktop\API Donaciones\Falp.Donaciones\Falp.Donaciones.Infraestructura.Data\bin\Debug\netstandard2.0\Falp.Donaciones.Infraestructura.Data.pdb
+C:\Users\reyese\Desktop\API Donaciones\Falp.Donaciones\Falp.Donaciones.Infraestructura.Data\bin\Debug\netstandard2.0\Falp.Donaciones.Transversal.Comunes.dll
+C:\Users\reyese\Desktop\API Donaciones\Falp.Donaciones\Falp.Donaciones.Infraestructura.Data\bin\Debug\netstandard2.0\Falp.Donaciones.Transversal.Comunes.pdb
+C:\Users\reyese\Desktop\API Donaciones\Falp.Donaciones\Falp.Donaciones.Infraestructura.Data\obj\Debug\netstandard2.0\Falp.Donaciones.Infraestructura.Data.csprojAssemblyReference.cache
+C:\Users\reyese\Desktop\API Donaciones\Falp.Donaciones\Falp.Donaciones.Infraestructura.Data\obj\Debug\netstandard2.0\Falp.Donaciones.Infraestructura.Data.csproj.CoreCompileInputs.cache
+C:\Users\reyese\Desktop\API Donaciones\Falp.Donaciones\Falp.Donaciones.Infraestructura.Data\obj\Debug\netstandard2.0\Falp.Donaciones.Infraestructura.Data.AssemblyInfoInputs.cache
+C:\Users\reyese\Desktop\API Donaciones\Falp.Donaciones\Falp.Donaciones.Infraestructura.Data\obj\Debug\netstandard2.0\Falp.Donaciones.Infraestructura.Data.AssemblyInfo.cs
+C:\Users\reyese\Desktop\API Donaciones\Falp.Donaciones\Falp.Donaciones.Infraestructura.Data\obj\Debug\netstandard2.0\Falp.Donaciones.Infraestructura.Data.csproj.CopyComplete
+C:\Users\reyese\Desktop\API Donaciones\Falp.Donaciones\Falp.Donaciones.Infraestructura.Data\obj\Debug\netstandard2.0\Falp.Donaciones.Infraestructura.Data.dll
+C:\Users\reyese\Desktop\API Donaciones\Falp.Donaciones\Falp.Donaciones.Infraestructura.Data\obj\Debug\netstandard2.0\Falp.Donaciones.Infraestructura.Data.pdb

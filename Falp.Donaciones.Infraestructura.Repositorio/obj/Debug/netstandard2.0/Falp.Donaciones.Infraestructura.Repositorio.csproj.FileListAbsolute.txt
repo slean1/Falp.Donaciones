@@ -1,0 +1,16 @@
+C:\Users\reyese\Desktop\API Donaciones\Falp.Donaciones\Falp.Donaciones.Infraestructura.Repositorio\bin\Debug\netstandard2.0\Falp.Donaciones.Infraestructura.Repositorio.deps.json
+C:\Users\reyese\Desktop\API Donaciones\Falp.Donaciones\Falp.Donaciones.Infraestructura.Repositorio\bin\Debug\netstandard2.0\Falp.Donaciones.Infraestructura.Repositorio.dll
+C:\Users\reyese\Desktop\API Donaciones\Falp.Donaciones\Falp.Donaciones.Infraestructura.Repositorio\bin\Debug\netstandard2.0\Falp.Donaciones.Infraestructura.Repositorio.pdb
+C:\Users\reyese\Desktop\API Donaciones\Falp.Donaciones\Falp.Donaciones.Infraestructura.Repositorio\bin\Debug\netstandard2.0\Falp.Donaciones.Dominio.Entidad.dll
+C:\Users\reyese\Desktop\API Donaciones\Falp.Donaciones\Falp.Donaciones.Infraestructura.Repositorio\bin\Debug\netstandard2.0\Falp.Donaciones.Infraestructura.Interface.dll
+C:\Users\reyese\Desktop\API Donaciones\Falp.Donaciones\Falp.Donaciones.Infraestructura.Repositorio\bin\Debug\netstandard2.0\Falp.Donaciones.Transversal.Comunes.dll
+C:\Users\reyese\Desktop\API Donaciones\Falp.Donaciones\Falp.Donaciones.Infraestructura.Repositorio\bin\Debug\netstandard2.0\Falp.Donaciones.Dominio.Entidad.pdb
+C:\Users\reyese\Desktop\API Donaciones\Falp.Donaciones\Falp.Donaciones.Infraestructura.Repositorio\bin\Debug\netstandard2.0\Falp.Donaciones.Infraestructura.Interface.pdb
+C:\Users\reyese\Desktop\API Donaciones\Falp.Donaciones\Falp.Donaciones.Infraestructura.Repositorio\bin\Debug\netstandard2.0\Falp.Donaciones.Transversal.Comunes.pdb
+C:\Users\reyese\Desktop\API Donaciones\Falp.Donaciones\Falp.Donaciones.Infraestructura.Repositorio\obj\Debug\netstandard2.0\Falp.Donaciones.Infraestructura.Repositorio.csprojAssemblyReference.cache
+C:\Users\reyese\Desktop\API Donaciones\Falp.Donaciones\Falp.Donaciones.Infraestructura.Repositorio\obj\Debug\netstandard2.0\Falp.Donaciones.Infraestructura.Repositorio.csproj.CoreCompileInputs.cache
+C:\Users\reyese\Desktop\API Donaciones\Falp.Donaciones\Falp.Donaciones.Infraestructura.Repositorio\obj\Debug\netstandard2.0\Falp.Donaciones.Infraestructura.Repositorio.AssemblyInfoInputs.cache
+C:\Users\reyese\Desktop\API Donaciones\Falp.Donaciones\Falp.Donaciones.Infraestructura.Repositorio\obj\Debug\netstandard2.0\Falp.Donaciones.Infraestructura.Repositorio.AssemblyInfo.cs
+C:\Users\reyese\Desktop\API Donaciones\Falp.Donaciones\Falp.Donaciones.Infraestructura.Repositorio\obj\Debug\netstandard2.0\Falp.Donaciones.Infraestructura.Repositorio.csproj.CopyComplete
+C:\Users\reyese\Desktop\API Donaciones\Falp.Donaciones\Falp.Donaciones.Infraestructura.Repositorio\obj\Debug\netstandard2.0\Falp.Donaciones.Infraestructura.Repositorio.dll
+C:\Users\reyese\Desktop\API Donaciones\Falp.Donaciones\Falp.Donaciones.Infraestructura.Repositorio\obj\Debug\netstandard2.0\Falp.Donaciones.Infraestructura.Repositorio.pdb
